@@ -1,0 +1,7 @@
+name: MECSvoteurl
+version: ${project.version}
+main: mc.mec.mecsvoteurl.MECSvoteurl
+api-version: 1.13
+author: Mr_El_Capitan
+commands:
+  vote:
